@@ -1,0 +1,1002 @@
+[
+  {
+    "patient_input": "I have nausea and vomiting.",
+    "doctor_output": {
+      "prescription_text": "You may have Gastric discomfort. Take Domperidone 10mg as prescribed for relief.",
+      "medicine_name": "Domperidone 10mg",
+      "dose_size": "1 tablet",
+      "frequency": "Before meals",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have loose motion and stomach cramps.",
+    "doctor_output": {
+      "prescription_text": "You may have Diarrhea. Take ORS + Loperamide 2mg as prescribed for relief.",
+      "medicine_name": "ORS + Loperamide 2mg",
+      "dose_size": "1 tablet",
+      "frequency": "After each loose stool",
+      "duration": "2 days"
+    }
+  },
+  {
+    "patient_input": "I have tooth pain.",
+    "doctor_output": {
+      "prescription_text": "You may have Toothache. Take Ibuprofen 400mg as prescribed for relief.",
+      "medicine_name": "Ibuprofen 400mg",
+      "dose_size": "1 tablet",
+      "frequency": "Thrice a day",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have nausea and vomiting.",
+    "doctor_output": {
+      "prescription_text": "You may have Gastric discomfort. Take Domperidone 10mg as prescribed for relief.",
+      "medicine_name": "Domperidone 10mg",
+      "dose_size": "1 tablet",
+      "frequency": "Before meals",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have stomach pain and bloating.",
+    "doctor_output": {
+      "prescription_text": "You may have Indigestion. Take Pantoprazole 40mg as prescribed for relief.",
+      "medicine_name": "Pantoprazole 40mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily before breakfast",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have skin acne and pimples.",
+    "doctor_output": {
+      "prescription_text": "You may have Acne treatment. Take Clindamycin Gel 1% as prescribed for relief.",
+      "medicine_name": "Clindamycin Gel 1%",
+      "dose_size": "Apply on affected area",
+      "frequency": "Twice a day",
+      "duration": "10 days"
+    }
+  },
+  {
+    "patient_input": "I have persistent cough with phlegm.",
+    "doctor_output": {
+      "prescription_text": "You may have Chest infection. Take Amoxicillin 500mg as prescribed for relief.",
+      "medicine_name": "Amoxicillin 500mg",
+      "dose_size": "1 capsule",
+      "frequency": "Three times a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have skin acne and pimples.",
+    "doctor_output": {
+      "prescription_text": "You may have Acne treatment. Take Clindamycin Gel 1% as prescribed for relief.",
+      "medicine_name": "Clindamycin Gel 1%",
+      "dose_size": "Apply on affected area",
+      "frequency": "Twice a day",
+      "duration": "10 days"
+    }
+  },
+  {
+    "patient_input": "I have dry cough and throat irritation.",
+    "doctor_output": {
+      "prescription_text": "You may have Dry cough. Take Dextromethorphan Syrup as prescribed for relief.",
+      "medicine_name": "Dextromethorphan Syrup",
+      "dose_size": "10 ml",
+      "frequency": "Thrice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have eye redness and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Eye infection. Take Ofloxacin Eye Drops as prescribed for relief.",
+      "medicine_name": "Ofloxacin Eye Drops",
+      "dose_size": "2 drops",
+      "frequency": "Twice daily",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have dry cough and throat irritation.",
+    "doctor_output": {
+      "prescription_text": "You may have Dry cough. Take Dextromethorphan Syrup as prescribed for relief.",
+      "medicine_name": "Dextromethorphan Syrup",
+      "dose_size": "10 ml",
+      "frequency": "Thrice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have eye redness and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Eye infection. Take Ofloxacin Eye Drops as prescribed for relief.",
+      "medicine_name": "Ofloxacin Eye Drops",
+      "dose_size": "2 drops",
+      "frequency": "Twice daily",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have sneezing and itchy eyes.",
+    "doctor_output": {
+      "prescription_text": "You may have Allergic rhinitis. Take Cetirizine 10mg as prescribed for relief.",
+      "medicine_name": "Cetirizine 10mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily at night",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have difficulty sleeping.",
+    "doctor_output": {
+      "prescription_text": "You may have Insomnia. Take Melatonin 3mg as prescribed for relief.",
+      "medicine_name": "Melatonin 3mg",
+      "dose_size": "1 tablet",
+      "frequency": "At bedtime",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have acidity and heartburn.",
+    "doctor_output": {
+      "prescription_text": "You may have Acid reflux. Take Omeprazole 20mg as prescribed for relief.",
+      "medicine_name": "Omeprazole 20mg",
+      "dose_size": "1 capsule",
+      "frequency": "Once daily before meals",
+      "duration": "10 days"
+    }
+  },
+  {
+    "patient_input": "I have skin rash and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Allergic dermatitis. Take Hydrocortisone cream 1% as prescribed for relief.",
+      "medicine_name": "Hydrocortisone cream 1%",
+      "dose_size": "Apply thin layer",
+      "frequency": "Twice daily",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have fever and chills.",
+    "doctor_output": {
+      "prescription_text": "You may have Viral fever. Take Paracetamol 650mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 650mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours if fever persists",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have body pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Flu. Take Oseltamivir 75mg as prescribed for relief.",
+      "medicine_name": "Oseltamivir 75mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have skin rash and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Allergic dermatitis. Take Hydrocortisone cream 1% as prescribed for relief.",
+      "medicine_name": "Hydrocortisone cream 1%",
+      "dose_size": "Apply thin layer",
+      "frequency": "Twice daily",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have stomach pain and bloating.",
+    "doctor_output": {
+      "prescription_text": "You may have Indigestion. Take Pantoprazole 40mg as prescribed for relief.",
+      "medicine_name": "Pantoprazole 40mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily before breakfast",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have dry cough and throat irritation.",
+    "doctor_output": {
+      "prescription_text": "You may have Dry cough. Take Dextromethorphan Syrup as prescribed for relief.",
+      "medicine_name": "Dextromethorphan Syrup",
+      "dose_size": "10 ml",
+      "frequency": "Thrice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have persistent cough with phlegm.",
+    "doctor_output": {
+      "prescription_text": "You may have Chest infection. Take Amoxicillin 500mg as prescribed for relief.",
+      "medicine_name": "Amoxicillin 500mg",
+      "dose_size": "1 capsule",
+      "frequency": "Three times a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have tooth pain.",
+    "doctor_output": {
+      "prescription_text": "You may have Toothache. Take Ibuprofen 400mg as prescribed for relief.",
+      "medicine_name": "Ibuprofen 400mg",
+      "dose_size": "1 tablet",
+      "frequency": "Thrice a day",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have sore throat, runny nose, mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Common cold. Take Paracetamol 500mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 500mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have ear pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Ear infection. Take Amoxicillin 500mg as prescribed for relief.",
+      "medicine_name": "Amoxicillin 500mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have mild anxiety.",
+    "doctor_output": {
+      "prescription_text": "You may have Anxiety. Take Alprazolam 0.25mg as prescribed for relief.",
+      "medicine_name": "Alprazolam 0.25mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily at night",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have stomach pain and bloating.",
+    "doctor_output": {
+      "prescription_text": "You may have Indigestion. Take Pantoprazole 40mg as prescribed for relief.",
+      "medicine_name": "Pantoprazole 40mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily before breakfast",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have loose motion and stomach cramps.",
+    "doctor_output": {
+      "prescription_text": "You may have Diarrhea. Take ORS + Loperamide 2mg as prescribed for relief.",
+      "medicine_name": "ORS + Loperamide 2mg",
+      "dose_size": "1 tablet",
+      "frequency": "After each loose stool",
+      "duration": "2 days"
+    }
+  },
+  {
+    "patient_input": "I have difficulty sleeping.",
+    "doctor_output": {
+      "prescription_text": "You may have Insomnia. Take Melatonin 3mg as prescribed for relief.",
+      "medicine_name": "Melatonin 3mg",
+      "dose_size": "1 tablet",
+      "frequency": "At bedtime",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have eye redness and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Eye infection. Take Ofloxacin Eye Drops as prescribed for relief.",
+      "medicine_name": "Ofloxacin Eye Drops",
+      "dose_size": "2 drops",
+      "frequency": "Twice daily",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have stomach pain and bloating.",
+    "doctor_output": {
+      "prescription_text": "You may have Indigestion. Take Pantoprazole 40mg as prescribed for relief.",
+      "medicine_name": "Pantoprazole 40mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily before breakfast",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have acidity and heartburn.",
+    "doctor_output": {
+      "prescription_text": "You may have Acid reflux. Take Omeprazole 20mg as prescribed for relief.",
+      "medicine_name": "Omeprazole 20mg",
+      "dose_size": "1 capsule",
+      "frequency": "Once daily before meals",
+      "duration": "10 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have nausea and vomiting.",
+    "doctor_output": {
+      "prescription_text": "You may have Gastric discomfort. Take Domperidone 10mg as prescribed for relief.",
+      "medicine_name": "Domperidone 10mg",
+      "dose_size": "1 tablet",
+      "frequency": "Before meals",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have skin acne and pimples.",
+    "doctor_output": {
+      "prescription_text": "You may have Acne treatment. Take Clindamycin Gel 1% as prescribed for relief.",
+      "medicine_name": "Clindamycin Gel 1%",
+      "dose_size": "Apply on affected area",
+      "frequency": "Twice a day",
+      "duration": "10 days"
+    }
+  },
+  {
+    "patient_input": "I have nausea and vomiting.",
+    "doctor_output": {
+      "prescription_text": "You may have Gastric discomfort. Take Domperidone 10mg as prescribed for relief.",
+      "medicine_name": "Domperidone 10mg",
+      "dose_size": "1 tablet",
+      "frequency": "Before meals",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have severe headache and light sensitivity.",
+    "doctor_output": {
+      "prescription_text": "You may have Tension headache. Take Ibuprofen 400mg as prescribed for relief.",
+      "medicine_name": "Ibuprofen 400mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day after meals",
+      "duration": "2 days"
+    }
+  },
+  {
+    "patient_input": "I have eye redness and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Eye infection. Take Ofloxacin Eye Drops as prescribed for relief.",
+      "medicine_name": "Ofloxacin Eye Drops",
+      "dose_size": "2 drops",
+      "frequency": "Twice daily",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have ear pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Ear infection. Take Amoxicillin 500mg as prescribed for relief.",
+      "medicine_name": "Amoxicillin 500mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have ear pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Ear infection. Take Amoxicillin 500mg as prescribed for relief.",
+      "medicine_name": "Amoxicillin 500mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have tooth pain.",
+    "doctor_output": {
+      "prescription_text": "You may have Toothache. Take Ibuprofen 400mg as prescribed for relief.",
+      "medicine_name": "Ibuprofen 400mg",
+      "dose_size": "1 tablet",
+      "frequency": "Thrice a day",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have persistent cough with phlegm.",
+    "doctor_output": {
+      "prescription_text": "You may have Chest infection. Take Amoxicillin 500mg as prescribed for relief.",
+      "medicine_name": "Amoxicillin 500mg",
+      "dose_size": "1 capsule",
+      "frequency": "Three times a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have eye redness and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Eye infection. Take Ofloxacin Eye Drops as prescribed for relief.",
+      "medicine_name": "Ofloxacin Eye Drops",
+      "dose_size": "2 drops",
+      "frequency": "Twice daily",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have sore throat, runny nose, mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Common cold. Take Paracetamol 500mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 500mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have difficulty sleeping.",
+    "doctor_output": {
+      "prescription_text": "You may have Insomnia. Take Melatonin 3mg as prescribed for relief.",
+      "medicine_name": "Melatonin 3mg",
+      "dose_size": "1 tablet",
+      "frequency": "At bedtime",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have acidity and heartburn.",
+    "doctor_output": {
+      "prescription_text": "You may have Acid reflux. Take Omeprazole 20mg as prescribed for relief.",
+      "medicine_name": "Omeprazole 20mg",
+      "dose_size": "1 capsule",
+      "frequency": "Once daily before meals",
+      "duration": "10 days"
+    }
+  },
+  {
+    "patient_input": "I have eye redness and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Eye infection. Take Ofloxacin Eye Drops as prescribed for relief.",
+      "medicine_name": "Ofloxacin Eye Drops",
+      "dose_size": "2 drops",
+      "frequency": "Twice daily",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have tooth pain.",
+    "doctor_output": {
+      "prescription_text": "You may have Toothache. Take Ibuprofen 400mg as prescribed for relief.",
+      "medicine_name": "Ibuprofen 400mg",
+      "dose_size": "1 tablet",
+      "frequency": "Thrice a day",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have body pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Flu. Take Oseltamivir 75mg as prescribed for relief.",
+      "medicine_name": "Oseltamivir 75mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have skin rash and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Allergic dermatitis. Take Hydrocortisone cream 1% as prescribed for relief.",
+      "medicine_name": "Hydrocortisone cream 1%",
+      "dose_size": "Apply thin layer",
+      "frequency": "Twice daily",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have fever and chills.",
+    "doctor_output": {
+      "prescription_text": "You may have Viral fever. Take Paracetamol 650mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 650mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours if fever persists",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have body pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Flu. Take Oseltamivir 75mg as prescribed for relief.",
+      "medicine_name": "Oseltamivir 75mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have dry cough and throat irritation.",
+    "doctor_output": {
+      "prescription_text": "You may have Dry cough. Take Dextromethorphan Syrup as prescribed for relief.",
+      "medicine_name": "Dextromethorphan Syrup",
+      "dose_size": "10 ml",
+      "frequency": "Thrice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have body pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Flu. Take Oseltamivir 75mg as prescribed for relief.",
+      "medicine_name": "Oseltamivir 75mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have severe headache and light sensitivity.",
+    "doctor_output": {
+      "prescription_text": "You may have Tension headache. Take Ibuprofen 400mg as prescribed for relief.",
+      "medicine_name": "Ibuprofen 400mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day after meals",
+      "duration": "2 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have tooth pain.",
+    "doctor_output": {
+      "prescription_text": "You may have Toothache. Take Ibuprofen 400mg as prescribed for relief.",
+      "medicine_name": "Ibuprofen 400mg",
+      "dose_size": "1 tablet",
+      "frequency": "Thrice a day",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have stomach pain and bloating.",
+    "doctor_output": {
+      "prescription_text": "You may have Indigestion. Take Pantoprazole 40mg as prescribed for relief.",
+      "medicine_name": "Pantoprazole 40mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily before breakfast",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have back pain after lifting heavy object.",
+    "doctor_output": {
+      "prescription_text": "You may have Muscle strain. Take Diclofenac 50mg as prescribed for relief.",
+      "medicine_name": "Diclofenac 50mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have ear pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Ear infection. Take Amoxicillin 500mg as prescribed for relief.",
+      "medicine_name": "Amoxicillin 500mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have difficulty sleeping.",
+    "doctor_output": {
+      "prescription_text": "You may have Insomnia. Take Melatonin 3mg as prescribed for relief.",
+      "medicine_name": "Melatonin 3mg",
+      "dose_size": "1 tablet",
+      "frequency": "At bedtime",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have skin acne and pimples.",
+    "doctor_output": {
+      "prescription_text": "You may have Acne treatment. Take Clindamycin Gel 1% as prescribed for relief.",
+      "medicine_name": "Clindamycin Gel 1%",
+      "dose_size": "Apply on affected area",
+      "frequency": "Twice a day",
+      "duration": "10 days"
+    }
+  },
+  {
+    "patient_input": "I have stomach pain and bloating.",
+    "doctor_output": {
+      "prescription_text": "You may have Indigestion. Take Pantoprazole 40mg as prescribed for relief.",
+      "medicine_name": "Pantoprazole 40mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily before breakfast",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have dry cough and throat irritation.",
+    "doctor_output": {
+      "prescription_text": "You may have Dry cough. Take Dextromethorphan Syrup as prescribed for relief.",
+      "medicine_name": "Dextromethorphan Syrup",
+      "dose_size": "10 ml",
+      "frequency": "Thrice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have body pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Flu. Take Oseltamivir 75mg as prescribed for relief.",
+      "medicine_name": "Oseltamivir 75mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have stomach pain and bloating.",
+    "doctor_output": {
+      "prescription_text": "You may have Indigestion. Take Pantoprazole 40mg as prescribed for relief.",
+      "medicine_name": "Pantoprazole 40mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily before breakfast",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have fever and chills.",
+    "doctor_output": {
+      "prescription_text": "You may have Viral fever. Take Paracetamol 650mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 650mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours if fever persists",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have loose motion and stomach cramps.",
+    "doctor_output": {
+      "prescription_text": "You may have Diarrhea. Take ORS + Loperamide 2mg as prescribed for relief.",
+      "medicine_name": "ORS + Loperamide 2mg",
+      "dose_size": "1 tablet",
+      "frequency": "After each loose stool",
+      "duration": "2 days"
+    }
+  },
+  {
+    "patient_input": "I have skin rash and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Allergic dermatitis. Take Hydrocortisone cream 1% as prescribed for relief.",
+      "medicine_name": "Hydrocortisone cream 1%",
+      "dose_size": "Apply thin layer",
+      "frequency": "Twice daily",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have dry cough and throat irritation.",
+    "doctor_output": {
+      "prescription_text": "You may have Dry cough. Take Dextromethorphan Syrup as prescribed for relief.",
+      "medicine_name": "Dextromethorphan Syrup",
+      "dose_size": "10 ml",
+      "frequency": "Thrice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have back pain after lifting heavy object.",
+    "doctor_output": {
+      "prescription_text": "You may have Muscle strain. Take Diclofenac 50mg as prescribed for relief.",
+      "medicine_name": "Diclofenac 50mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have sneezing and itchy eyes.",
+    "doctor_output": {
+      "prescription_text": "You may have Allergic rhinitis. Take Cetirizine 10mg as prescribed for relief.",
+      "medicine_name": "Cetirizine 10mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily at night",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have severe headache and light sensitivity.",
+    "doctor_output": {
+      "prescription_text": "You may have Tension headache. Take Ibuprofen 400mg as prescribed for relief.",
+      "medicine_name": "Ibuprofen 400mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day after meals",
+      "duration": "2 days"
+    }
+  },
+  {
+    "patient_input": "I have acidity and heartburn.",
+    "doctor_output": {
+      "prescription_text": "You may have Acid reflux. Take Omeprazole 20mg as prescribed for relief.",
+      "medicine_name": "Omeprazole 20mg",
+      "dose_size": "1 capsule",
+      "frequency": "Once daily before meals",
+      "duration": "10 days"
+    }
+  },
+  {
+    "patient_input": "I have back pain after lifting heavy object.",
+    "doctor_output": {
+      "prescription_text": "You may have Muscle strain. Take Diclofenac 50mg as prescribed for relief.",
+      "medicine_name": "Diclofenac 50mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have fever and chills.",
+    "doctor_output": {
+      "prescription_text": "You may have Viral fever. Take Paracetamol 650mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 650mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours if fever persists",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have fever and chills.",
+    "doctor_output": {
+      "prescription_text": "You may have Viral fever. Take Paracetamol 650mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 650mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours if fever persists",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have mild anxiety.",
+    "doctor_output": {
+      "prescription_text": "You may have Anxiety. Take Alprazolam 0.25mg as prescribed for relief.",
+      "medicine_name": "Alprazolam 0.25mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily at night",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have sore throat, runny nose, mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Common cold. Take Paracetamol 500mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 500mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have body pain and mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Flu. Take Oseltamivir 75mg as prescribed for relief.",
+      "medicine_name": "Oseltamivir 75mg",
+      "dose_size": "1 capsule",
+      "frequency": "Twice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have dry cough and throat irritation.",
+    "doctor_output": {
+      "prescription_text": "You may have Dry cough. Take Dextromethorphan Syrup as prescribed for relief.",
+      "medicine_name": "Dextromethorphan Syrup",
+      "dose_size": "10 ml",
+      "frequency": "Thrice a day",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have sneezing and itchy eyes.",
+    "doctor_output": {
+      "prescription_text": "You may have Allergic rhinitis. Take Cetirizine 10mg as prescribed for relief.",
+      "medicine_name": "Cetirizine 10mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily at night",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have sore throat, runny nose, mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Common cold. Take Paracetamol 500mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 500mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have sore throat, runny nose, mild fever.",
+    "doctor_output": {
+      "prescription_text": "You may have Common cold. Take Paracetamol 500mg as prescribed for relief.",
+      "medicine_name": "Paracetamol 500mg",
+      "dose_size": "1 tablet",
+      "frequency": "Every 6 hours",
+      "duration": "3 days"
+    }
+  },
+  {
+    "patient_input": "I have mild anxiety.",
+    "doctor_output": {
+      "prescription_text": "You may have Anxiety. Take Alprazolam 0.25mg as prescribed for relief.",
+      "medicine_name": "Alprazolam 0.25mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily at night",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have joint pain in knees.",
+    "doctor_output": {
+      "prescription_text": "You may have Joint pain. Take Aceclofenac 100mg as prescribed for relief.",
+      "medicine_name": "Aceclofenac 100mg",
+      "dose_size": "1 tablet",
+      "frequency": "Twice a day",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have skin rash and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Allergic dermatitis. Take Hydrocortisone cream 1% as prescribed for relief.",
+      "medicine_name": "Hydrocortisone cream 1%",
+      "dose_size": "Apply thin layer",
+      "frequency": "Twice daily",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have skin rash and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Allergic dermatitis. Take Hydrocortisone cream 1% as prescribed for relief.",
+      "medicine_name": "Hydrocortisone cream 1%",
+      "dose_size": "Apply thin layer",
+      "frequency": "Twice daily",
+      "duration": "7 days"
+    }
+  },
+  {
+    "patient_input": "I have eye redness and itching.",
+    "doctor_output": {
+      "prescription_text": "You may have Eye infection. Take Ofloxacin Eye Drops as prescribed for relief.",
+      "medicine_name": "Ofloxacin Eye Drops",
+      "dose_size": "2 drops",
+      "frequency": "Twice daily",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have mild anxiety.",
+    "doctor_output": {
+      "prescription_text": "You may have Anxiety. Take Alprazolam 0.25mg as prescribed for relief.",
+      "medicine_name": "Alprazolam 0.25mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily at night",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have mild anxiety.",
+    "doctor_output": {
+      "prescription_text": "You may have Anxiety. Take Alprazolam 0.25mg as prescribed for relief.",
+      "medicine_name": "Alprazolam 0.25mg",
+      "dose_size": "1 tablet",
+      "frequency": "Once daily at night",
+      "duration": "5 days"
+    }
+  },
+  {
+    "patient_input": "I have nausea and vomiting.",
+    "doctor_output": {
+      "prescription_text": "You may have Gastric discomfort. Take Domperidone 10mg as prescribed for relief.",
+      "medicine_name": "Domperidone 10mg",
+      "dose_size": "1 tablet",
+      "frequency": "Before meals",
+      "duration": "3 days"
+    }
+  }
+]
